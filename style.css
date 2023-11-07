@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Gilroy', sans-serif;
+}
+#body h1{
+    font-size: 40px;
+    font-weight: 600;
+}
+#edit-button{
+    color: #ffc107;
+    margin: 0px 10px;
+    font-size:medium;
+    cursor: pointer;
+}
+#delete-button{
+    color: #dc3545;
+    margin: 0px 10px;
+    font-size:medium;
+    cursor: pointer;
+}
+.input-labels{
+    color: black;
+    font-weight: 600;
+}
+.error-message{
+    color: #dc3545;
+    font-size: 12px;
+    display: none;
+}
